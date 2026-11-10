@@ -1,6 +1,8 @@
-# 力量训练计划追踪 · Training Journal
+# Caveman力训馆
 
 基于单个 HTML 文件的力量训练计划记录工具，纯前端，数据保存在访问者浏览器本地（localStorage）。
+
+内置「我的教练」知识库：JTS（Juggernaut / 力量训练原理）与 SBS（Stronger By Science）两大体系，各分理论知识与动作知识，配 40 张动作示范图。计划介绍补充了各计划的体系依据与资料出处。
 
 ## 在线地址
 
